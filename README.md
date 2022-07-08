@@ -11,3 +11,8 @@ The models used for this project are:
 - RandomForest Classifier
 - CatBoost Classifier
 - RegLog Regression
+
+This project also tried to use __IterativeImputer__ to handle missing value.
+
+### Results
+The best model to predict this model is __CatBoost Classifier__ with __93,7% accurancy__.
